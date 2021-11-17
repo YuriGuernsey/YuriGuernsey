@@ -3,6 +3,7 @@
 [![Visitor Counter for YuriGuernsey](https://pimp-my-readme.webapp.io/pimp-my-readme/visitor-counter?page=YuriGuernsey)}](https://pimp-my-readme.webapp.io)
 [![Twitter](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Twitter)](https://twitter.com/yuriguernsey)
 [![JavaScript_HTML_CSS_MySQL_PostgreSQL_Flutter_PHP](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=JavaScript_HTML_CSS_MySQL_PostgreSQL_Flutter_PHP)](https://pimp-my-readme.webapp.io)
+- 🔭 I’m currently working on Nothing teehee
 <!--
 **YuriGuernsey/YuriGuernsey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
