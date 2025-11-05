@@ -16,6 +16,8 @@ src="https://img.shields.io/github/followers/YuriGuernsey?logo=github&style=for-
 src="https://img.shields.io/twitter/follow/Yuriguernsey?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31rj7ty2m3tb6tp5gsngm7iq7gsm)
+
 ### Skills
 
 
