@@ -1,7 +1,7 @@
-name: My YourTomo cat
+name: My BuffTomo monster
 on:
   schedule:
-    - cron: '23 */6 * * *'   # every 6h - pick your own minute
+    - cron: '23 */6 * * *'   # every 6h
   workflow_dispatch:
 
 permissions:
@@ -12,7 +12,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: prsdx/github-pet@v1
+      - uses: YuriGuernsey/BuffTomo@main
         with:
-          username: yuriguernsey       # change me
-          timezone-offset-minutes: "330" # your UTC offset in minutes
+          username: yuriguernsey
+          monster: beastor               # beastor | drako | pumpkin | neko | shadow | random
+          timezone-offset-minutes: "60"  # Guernsey: 60 in summer (BST), 0 in winter
