@@ -1,4 +1,4 @@
-![pet](https://raw.githubusercontent.com/yuriguernsey/yuriguernsey/main/dist/pet.svg)
+![BuffTomo monster](https://raw.githubusercontent.com/yuriguernsey/yuriguernsey/main/dist/pet.svg?v=bufftomo)
 
 
 <h1>Yuri Alves</h1>
